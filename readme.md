@@ -36,6 +36,14 @@ The YouTube Views Generator is a Python script that uses the Selenium WebDriver 
 
 4. Monitor the console output to see the progress of the views generation.
 
+5. Once the script finishes, the Chrome browser will close automatically.
+
+6. Run `Setup.py` Script to build EXE by following command:
+
+    ```bash
+    python setup.py build
+    ```
+
 ## Notes
 
 - This script is intended for educational and testing purposes only. Generating artificial views violates YouTube's terms of service and can lead to penalties or account termination.
